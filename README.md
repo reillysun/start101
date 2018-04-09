@@ -7,3 +7,4 @@ I like Python, R, and Meachine-Learning and see what I can explore in the near f
 # Python_01
 The basic Python
 # Python_02
+Included Numpy; Pandas; Matplotlib
